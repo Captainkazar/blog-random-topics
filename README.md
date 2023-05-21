@@ -1,3 +1,3 @@
 # blog-random-topics
 
-Built a blog using the flask framwork along with jinja.
+Built a blog using the flask framework along with jinja.
